@@ -1,5 +1,5 @@
 ---
-title: Demo Post
+title: Demo Post from Local
 date: 2020-07-23T00:17:57.352Z
 description: This is just a demo post created to check out the Netlify CMS tool
 image: img/blog-index.jpg
